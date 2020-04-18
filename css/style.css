@@ -1,0 +1,22 @@
+body h1{
+	margin-top:5%;
+}
+#marvelpage, #potterpage{
+	margin-top:5%;
+}
+.card {
+	margin:2%;
+}
+.row a{
+	margin:1% 0.5% 2% 0;
+}
+#marvelcharName{
+	margin:3% 0;
+}
+#potterContent{
+	margin:3% 35%;
+}
+.g-signin2{
+	margin:2% 0 0 80%;
+}
+
